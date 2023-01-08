@@ -12,8 +12,8 @@ Your challenge is to build out this feature section and get it looking as close 
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-## Challenge Name is ::
+## Challenge name
 four-card-feature-section-master
 
-## challenge live URL 
+## Challenge live URL 
 https://wadmortada.github.io/four-card-feature/
